@@ -1,7 +1,7 @@
 package array;
 import java.util.*;
 
-public class largest_elem_in_an_array {
+public class largest_element {
     static int v1(Integer[] arr) {
         int max = arr[0];
         
